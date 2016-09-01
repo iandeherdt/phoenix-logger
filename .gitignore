@@ -3,9 +3,9 @@
 /db
 /deps
 /*.ez
-*/packages/
-*/bin/
-*/obj/
+testClients/PhoenixLogger/packages
+testClients/PhoenixLogger/*/bin
+testClients/PhoenixLogger/*/obj
 # Generated on crash by the VM
 erl_crash.dump
 
