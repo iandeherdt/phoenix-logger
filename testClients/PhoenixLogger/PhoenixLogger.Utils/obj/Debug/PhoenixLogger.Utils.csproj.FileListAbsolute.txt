@@ -1,0 +1,7 @@
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\bin\Debug\PhoenixLogger.Utils.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\bin\Debug\PhoenixLogger.Utils.pdb
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\bin\Debug\Newtonsoft.Json.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\bin\Debug\WebSocket4Net.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\bin\Debug\Newtonsoft.Json.xml
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\obj\Debug\PhoenixLogger.Utils.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Utils\obj\Debug\PhoenixLogger.Utils.pdb

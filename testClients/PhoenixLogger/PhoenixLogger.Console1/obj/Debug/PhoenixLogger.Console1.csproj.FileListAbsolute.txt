@@ -1,0 +1,11 @@
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\PhoenixLogger.Console1.exe.config
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\PhoenixLogger.Console1.exe
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\PhoenixLogger.Console1.pdb
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\obj\Debug\PhoenixLogger.Console1.csprojResolveAssemblyReference.cache
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\obj\Debug\PhoenixLogger.Console1.exe
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\obj\Debug\PhoenixLogger.Console1.pdb
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\Newtonsoft.Json.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\PhoenixLogger.Utils.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\WebSocket4Net.dll
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\PhoenixLogger.Utils.pdb
+F:\Personal\PhoenixLogger\phoenix-logger\testClients\PhoenixLogger\PhoenixLogger.Console1\bin\Debug\Newtonsoft.Json.xml
