@@ -17,3 +17,7 @@ config :phoenix_logger, PhoenixLogger.Repo,
   database: "phoenix_logger_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
+
+# speeds up comeonin
+config :comeonin, :bcrypt_log_rounds, 4
+config :comeonin, :pbkdf2_rounds, 1

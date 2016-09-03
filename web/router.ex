@@ -19,6 +19,12 @@ defmodule PhoenixLogger.Router do
     get "/", PageController, :index
   end
 
+  scope "/api", PhoenixLogger do
+    pipe_through :api
+
+    resources "/users", UserController, only: [:create]
+  end
+
   # Other scopes may use custom stacks.
   # scope "/api", PhoenixLogger do
   #   pipe_through :api

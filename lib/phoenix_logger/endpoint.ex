@@ -37,6 +37,6 @@ defmodule PhoenixLogger.Endpoint do
     store: :cookie,
     key: "_phoenix_logger_key",
     signing_salt: "oP5wNjKC"
-
+  plug CORSPlug
   plug PhoenixLogger.Router
 end
