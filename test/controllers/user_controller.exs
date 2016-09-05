@@ -1,7 +1,7 @@
 defmodule TodoApi.UserControllerTest do
-  use TodoApi.ConnCase
+  use PhoenixLogger.ConnCase
 
-  alias TodoApi.User
+  alias PhoenixLogger.User
   @valid_attrs %{email: "foo@bar.com", password: "s3cr3t"}
   @invalid_attrs %{}
 
