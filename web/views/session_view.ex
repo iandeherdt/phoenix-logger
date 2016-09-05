@@ -2,7 +2,7 @@ defmodule PhoenixLogger.SessionView do
   use PhoenixLogger.Web, :view
 
   def render("show.json", %{session: session}) do
-    %{data: render_one(session, TodoApi.SessionView, "session.json")}
+    %{data: render_one(session, PhoenixLogger.SessionView, "session.json")}
   end
 
   def render("session.json", %{session: session}) do
