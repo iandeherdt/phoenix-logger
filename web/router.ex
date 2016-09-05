@@ -21,7 +21,7 @@ defmodule PhoenixLogger.Router do
 
   scope "/api", PhoenixLogger do
     pipe_through :api
-
+    resources "/sessions", SessionController, only: [:create]
     resources "/users", UserController, only: [:create]
   end
 
